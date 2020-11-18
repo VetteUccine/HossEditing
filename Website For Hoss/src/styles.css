@@ -1,0 +1,55 @@
+body {
+  font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Verdana,
+    sans-serif;
+  text-align: center;
+  align-content: center;
+  background: rgb(255, 255, 255);
+  overflow-x: hidden;
+  margin: 0px;
+}
+
+.home-body {
+  background: url("https://blog.frame.io/wp-content/uploads/2018/05/premiere-audio-screen.jpg")
+    no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.name-main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+}
+
+.name-text {
+  margin: 0px;
+  color: white;
+}
+
+.title {
+  font-size: 50px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.small-margin {
+  margin: 5px;
+}
+
+.header-spacing {
+  margin-top: 125px;
+}
+
+.header-spacing-rates {
+  margin-top: 100px;
+}
