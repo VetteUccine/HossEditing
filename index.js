@@ -1,4 +1,4 @@
-import "styles.css";
+import "vetteuccine.github.io/styles.css";
 
 document.getElementById("app").innerHTML = `
 <div class="main-body">
