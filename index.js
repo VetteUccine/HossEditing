@@ -1,6 +1,6 @@
 import "./styles.css";
 
-document.getElementById("app").innerHTML = `
+document.getElementById("app").innerHTML =
 <div class="main-body">
   <div class="home-body">
     <div class="name-main">
@@ -34,4 +34,4 @@ document.getElementById("app").innerHTML = `
 
 
 </div>
-`;
+;
